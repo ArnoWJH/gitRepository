@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T05:05:23.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="zqqnnap5UvYyooLCVaJ8" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T06:09:18.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="EuBMHNpAs_MsJOX5G9uV" version="14.8.5" type="github">
   <diagram id="tFrWCr_RHsTVMiMfS6ZB" name="类的加载">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,13 +52,17 @@
           <mxGeometry x="490" y="315" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jGKa6otBGCpJ0rLA2faZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGKa6otBGCpJ0rLA2faZ-14" target="jGKa6otBGCpJ0rLA2faZ-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jGKa6otBGCpJ0rLA2faZ-14" value="执行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="315" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jGKa6otBGCpJ0rLA2faZ-16" value="卸载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="394" y="315" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
