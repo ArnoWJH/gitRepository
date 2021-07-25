@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T05:59:10.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.7.7" etag="VZ2qIJR1qe3YTqq97SMr" type="github"><diagram id="GQAlckj_Bse5fMzXqEgK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-25T06:07:00.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="XSUvey3IfFmSDue_LoTR" version="14.7.7" type="github">
+  <diagram id="GQAlckj_Bse5fMzXqEgK" name="数据结构">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqSk5W5PK2DdWmQ3wlx8-1" target="eqSk5W5PK2DdWmQ3wlx8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqSk5W5PK2DdWmQ3wlx8-1" target="eqSk5W5PK2DdWmQ3wlx8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-1" value="/zknode1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqSk5W5PK2DdWmQ3wlx8-2" target="eqSk5W5PK2DdWmQ3wlx8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqSk5W5PK2DdWmQ3wlx8-2" target="eqSk5W5PK2DdWmQ3wlx8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-2" value="/" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqSk5W5PK2DdWmQ3wlx8-3" target="eqSk5W5PK2DdWmQ3wlx8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqSk5W5PK2DdWmQ3wlx8-3" target="eqSk5W5PK2DdWmQ3wlx8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-3" value="/zknode2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-7" value="/zknode1/leaf2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-8" value="/zknode1/leaf1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-9" value="/zknode1/leaf2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-10" value="/zknode2/leaf1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqSk5W5PK2DdWmQ3wlx8-15" value="&lt;h1&gt;zookeeper数据结构&lt;/h1&gt;&lt;p&gt;每一个节点称作一个znode&lt;/p&gt;&lt;p&gt;每一个节点默认能够存储1MB数据&lt;/p&gt;&lt;p&gt;每个节点可以通过唯一路劲找到&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="230" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
